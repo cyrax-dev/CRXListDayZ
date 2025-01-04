@@ -1,3 +1,5 @@
+![GitHub top language](https://img.shields.io/github/languages/top/cyrax-dev/CRXListDayZ) ![GitHub License](https://img.shields.io/github/license/cyrax-dev/CRXListDayZ)
+
 ### CRXList DayZ
 
 ### 📃 Description
